@@ -1,18 +1,12 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
-<%--
-  Created by IntelliJ IDEA.
-  User: roman
-  Date: 05.09.2021
-  Time: 17:49
-  To change this template use File | Settings | File Templates.
---%>
+
 <%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <html>
 <head>
   <title>Rent car</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="author" content="Roman Zvieriev">
+  <meta name="author" content="Olga Ryskal">
   <meta name="description" content="Online car rental service in Ukraine. Rent a different car in Kiev, Dnipro, Odessa...">
   <meta name="keywords" content="rent car, rent Kiev, аренда авто, аренда машин">
   <link rel="icon" type="image/png" href="<%=request.getContextPath()%>/templates/images/icons/icons_cars.png"/>

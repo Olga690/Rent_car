@@ -1,18 +1,12 @@
 <%@ page import="dao.OrderDao" %>
-<%@ page import="entity.Order" %><%--
-  Created by IntelliJ IDEA.
-  User: roman
-  Date: 24.09.2021
-  Time: 14:03
-  To change this template use File | Settings | File Templates.
---%>
+<%@ page import="entity.Order" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
     <title>Rent car</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="author" content="Roman Zvieriev">
+    <meta name="author" content="Olga Ryskal">
     <meta name="description"
           content="Online car rental service in Ukraine. Rent a different car in Kiev, Dnipro, Odessa...">
     <meta name="keywords" content="rent car, rent Kiev, аренда авто, аренда машин">
